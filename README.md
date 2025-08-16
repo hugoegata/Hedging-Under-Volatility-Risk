@@ -75,6 +75,5 @@ This project simulates and compares hedging strategies under two popular stochas
 
 ## 📌 Author
 
-Basile M'Couela  
-EDHEC – MSc Financial Engineering  
-Université Côte d’Azur – MSc Applied Mathematics
+Hugo Egata-Patche  
+Pantheon Sorbonne – International Master of Mathematics Applied to Economics and Finance  
