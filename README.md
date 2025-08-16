@@ -40,18 +40,15 @@ This project simulates and compares hedging strategies under two popular stochas
 ## 📊 Visual Output
 
 ### Heston:
-![Figure 1](Heston_2.jpeg)
+![Figure 1](Heston.png)
 > Delta vs. Vega+Delta under Heston
-![Delta vas Vega+Delta under Heston](smile.png)
 
 
-![Figure 2](Tab_heston.jpeg)
-> Statistics Table for Heston Hedging Strategies
 
 ### GARCH:
-![Figure 3](D919B8B3-AFC6-424F-955E-0C5834F1C211.png)
+![Figure 3](Garch.png)
 > Delta and Delta+Vega under GARCH
-![Delta and Delta+Vega under Garch](term_structure.png)
+
 ---
 
 ## 🛠️ Technologies
